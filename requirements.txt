@@ -1,1 +1,5 @@
-math
+numpy>=1.19.2
+tensorflow-macos==2.13.0
+tensorflow-metal==1.0.1
+tensorflow-datasets>=4.9.2
+streamlit>=1.22.0
