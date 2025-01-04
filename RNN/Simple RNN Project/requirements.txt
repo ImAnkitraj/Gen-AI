@@ -1,0 +1,6 @@
+numpy
+tensorflow
+tensorflow-macos
+tensorflow-metal
+tensorflow-datasets
+streamlit
