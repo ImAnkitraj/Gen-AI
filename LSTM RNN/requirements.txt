@@ -1,0 +1,6 @@
+tensorflow-macos
+tensorflow
+nltk
+
+pandas
+scikit-learn
